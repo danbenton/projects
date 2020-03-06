@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+/.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# files
+## Jammming
+/jammming/src/util/clientCreds.js
+
+# misc
+.DS_Store
+/jammming/.env.local
+/jammming/.env.development.local
+/jammming/.env.test.local
+/jammming/.env.production.local
+
+/jammming/npm-debug.log*
+/jammming/yarn-debug.log*
+/jammming/yarn-error.log*
