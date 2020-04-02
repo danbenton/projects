@@ -12,4 +12,4 @@ The site can be found here [Spotify Jamming App](https://jamming-spotify.s3.amaz
 
 Tech Used: 
 ![React](https://github.com/danbenton/projects/tree/master/jamming/assets/react.png)
-![AWS S3] (https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/amazon-s3.png)
+![AWS S3](https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/amazon-s3.png)
