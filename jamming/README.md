@@ -8,7 +8,7 @@ Additional features to include:
 - song preview
 - album art
 
-The site can be found here [Spotify Jamming App](https://jamming-spotify.s3.amazonaws.com/index.html)
+The site can be found here [Spotify Jamming App](http://jamming-spotify.s3-website-us-east-1.amazonaws.com/)
 
 ## Tech Used
 <img align="left" src="https://github.com/danbenton/projects/blob/master/jamming/assets/react.png" height="125" width="125">

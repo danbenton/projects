@@ -1,6 +1,6 @@
 
 let accessToken
-const redirectURI ="https://jamming-spotify.s3.amazonaws.com/index.html"
+const redirectURI = "http://jamming-spotify.s3-website-us-east-1.amazonaws.com"
 const clientId = '6369b7dfc7a44e678aeac7cd544f1162'
 
 const Spotify = {
